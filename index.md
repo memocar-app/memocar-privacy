@@ -138,7 +138,7 @@ Archivo: index.md (GitHub Pages)
         <h2>9. Contacto</h2>
         <p>Si tenés preguntas sobre esta Política de Privacidad, podés contactarnos:</p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:PuntoAuto.soporte@gmail.com">PuntoAuto.soporte@gmail.com</a></li>
+          <li><strong>Email:</strong> <a href="mailto:memocar.soporte@gmail.com">memocar.soporte@gmail.com</a></li>
           <li><strong>App:</strong> PuntoAuto</li>
           <li><strong>País:</strong> Argentina</li>
         </ul>
